@@ -1,0 +1,9 @@
+.place {
+  display: grid;
+  grid-template-columns: 460px 1fr;
+  grid-template-rows: max-content 1fr;
+  /* Отступы между рядами */
+  row-gap: 48px;
+  /* Отступы между колонками */
+  column-gap: 40px;
+}
