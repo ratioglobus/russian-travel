@@ -9,18 +9,6 @@
   line-height: 58px;
 }
 
-@media (max-width: 1024px) {
-  .intro__title {
-    padding-left: 28px;
-  }
-}
-
-@media (max-width: 768px) {
-  .intro__title {
-    padding-left: 24px;
-  }
-}
-
 @media (max-width: 670px) {
   .intro__title {
     font-size: 45px;
@@ -37,14 +25,5 @@
   .intro__title {
     font-size: 32px;
     line-height: 35px;
-    padding-left: 16px;
   }
 }
-
-@media (max-width: 290px) {
-  .intro__title {
-    font-size: 27px;
-    padding-left: 16px;
-  }
-}
-

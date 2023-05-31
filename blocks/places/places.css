@@ -1,8 +1,8 @@
 .places {
+  margin: 0 auto 92px;
   max-width: 984px;
   display: grid;
   gap: 80px;
-  margin: 0 auto 92px;
 }
 
 @media (max-width: 1024px) {

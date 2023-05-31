@@ -1,11 +1,11 @@
 .footer {
+  margin: 0 auto;
+  padding: 0 48px 24px 48px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   max-width: 1184px;
   max-height: 18px;
-  margin: 0 auto;
-  padding: 0 48px 24px 48px;
 }
 
 @media (max-width: 1024px) {
