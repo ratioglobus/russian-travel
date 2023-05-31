@@ -1,12 +1,11 @@
 .lead {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   flex-direction: column;
   max-width: 984px;
   margin: 0 auto 92px;
   padding: 56px 0 0 0;
-  align-items: flex-start;
 }
 
 @media (max-width: 1024px) {
