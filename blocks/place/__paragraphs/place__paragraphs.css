@@ -3,3 +3,9 @@
   flex-direction: column;
   row-gap: 26px;
 }
+
+@media (max-width: 768px) {
+  .place__paragraphs {
+    row-gap: 25px;
+  }
+}
