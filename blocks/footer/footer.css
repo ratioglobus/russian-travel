@@ -26,3 +26,9 @@
     align-items: start;
   }
 }
+
+@media (max-width: 320px) {
+  .footer {
+    padding: 0 16px 24px 16px;
+  }
+}
